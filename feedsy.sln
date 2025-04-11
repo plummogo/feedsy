@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FeedsyAPI", "FeedsyAPI\FeedsyAPI.csproj", "{420CC263-DE03-B19E-D425-C42B384F42AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FeedsyAPI.Tests", "FeedsyAPI.Tests\FeedsyAPI.Tests.csproj", "{8A0645A4-8813-C616-DB7B-E337E217B880}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{420CC263-DE03-B19E-D425-C42B384F42AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{420CC263-DE03-B19E-D425-C42B384F42AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{420CC263-DE03-B19E-D425-C42B384F42AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{420CC263-DE03-B19E-D425-C42B384F42AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A0645A4-8813-C616-DB7B-E337E217B880}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A0645A4-8813-C616-DB7B-E337E217B880}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A0645A4-8813-C616-DB7B-E337E217B880}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A0645A4-8813-C616-DB7B-E337E217B880}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {457ED3E0-9A3C-4C27-AC7C-A9E41D26450F}
+	EndGlobalSection
+EndGlobal
