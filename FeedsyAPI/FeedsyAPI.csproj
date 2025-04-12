@@ -22,5 +22,6 @@
   <ItemGroup>
     <ProjectReference Include="..\FeedsyAPI.Models\FeedsyAPI.Models.csproj" />
     <ProjectReference Include="..\FeedsyAPI.Data\FeedsyAPI.Data.csproj" />
+    <ProjectReference Include="..\FeedsyAPI.Services\FeedsyAPI.Services.csproj" />
   </ItemGroup>
 </Project>

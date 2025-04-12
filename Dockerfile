@@ -6,6 +6,7 @@ WORKDIR /app
 COPY FeedsyAPI/FeedsyAPI.csproj FeedsyAPI/
 COPY FeedsyAPI.Models/FeedsyAPI.Models.csproj FeedsyAPI.Models/
 COPY FeedsyAPI.Tests/FeedsyAPI.Tests.csproj FeedsyAPI.Tests/
+COPY FeedsyAPI.Services/FeedsyAPI.Services.csproj FeedsyAPI.Services/
 COPY feedsy.sln .
 
 # Restore dependencies
